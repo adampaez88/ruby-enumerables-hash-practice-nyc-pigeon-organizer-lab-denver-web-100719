@@ -30,6 +30,7 @@
 #       lives: ["Central Park"]
 #     }
 #   }
+# end 
 
 
 pigeon_data = {
@@ -94,16 +95,7 @@ end
 
 nyc_pigeon_organizer(pigeon_data)
 
-#end
 
 
 
-# {
-#   "Luca" => {color: ["brown"],
-#     gender: ["male"],
-#     lives: ["Library"]
-#   },
-#   "Lola" => {color: ["black"],
-#     gender: ["female"],
-#     lives: ["Central Park"]
-#   }
+
